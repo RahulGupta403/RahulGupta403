@@ -36,6 +36,7 @@
 <a href="https://codeforces.com/profile/rahulguptamadhav123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
 <a href="https://leetcode.com/Rahul_Me_Gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/lucifer_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/Lingesan" target="blank"><img align="center" src="https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="InterviewBit" height="60" width="60" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
 
