@@ -15,16 +15,17 @@
 
 - 👨‍💻 You can see all of my projects here at my github repository [https://github.com/RahulGupta403](https://github.com/RahulGupta403)
 
-- 📝 I super active on [https://github.com/RahulGupta403](https://github.com/aditya-mnnit)
+- 📝 I super active on [https://github.com/RahulGupta403](https://github.com/github.com/RahulGupta403)
 
 - 📫 How to reach me **https://www.linkedin.com/in/rahulgupta403/**
 
-- 📄 Resume Link : [https://drive.google.com/file/d/1aSRSduzdhVUqMFGyZfKTJalthMwguQRO/view?usp=drive_link](https://drive.google.com/file/d/1aSRSduzdhVUqMFGyZfKTJalthMwguQRO/view?usp=drive_link)
+- 📄 Resume Link : [RahulGupta_Resume](https://drive.google.com/file/d/1aSRSduzdhVUqMFGyZfKTJalthMwguQRO/view?usp=drive_link)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ![](https://leetcard.jacoblin.cool/rahul_me_gupta?ext=contest&width=500)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
