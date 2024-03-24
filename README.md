@@ -26,9 +26,9 @@
 - 📄 Resume Link : [RahulGupta_Resume](https://drive.google.com/file/d/1aSRSduzdhVUqMFGyZfKTJalthMwguQRO/view?usp=drive_link)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-//![]//(https://leetcard.jacoblin.cool/rahul_me_gupta?ext=contest&width=500)
+<!-- ![](https://leetcard.jacoblin.cool/rahul_me_gupta?ext=contest&width=500) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -36,11 +36,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahulgupta403/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/Rahul_403" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Codingninjas" height="30" width="40" /></a>
+<!-- <a href="https://www.codingninjas.com/studio/profile/Rahul_403" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="Codingninjas" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://codeforces.com/profile/rahulguptamadhav123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://leetcode.com/Rahul_Me_Gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lucifer_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+<!-- <a href="https://leetcode.com/Rahul_Me_Gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a> -->
+<!-- <a href="https://auth.geeksforgeeks.org/user/lucifer_coder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a> -->
 <a href="https://www.interviewbit.com/profile/Lingesan" target="blank"><img align="center" src="https://ibassets.s3.amazonaws.com/static-assets/ib-logo-square.png" alt="InterviewBit" height="60" width="60" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
@@ -54,7 +54,7 @@
 <p align="center">
     <a href="https://github.com/rahulgupta403/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rahul's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgupta403&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-<!--         [![GitHub Streak](https://streak-stats.demolab.com?user=rahulgupta403&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) -->
+        <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=rahulgupta403&theme=highcontrast&hide_border=true)](https://git.io/streak-stats) -->
     </a>
 </p>
 
@@ -70,7 +70,7 @@
         
 <a href="https://github.com/RahulGupta403/github-readme-stats"><img alt="Rahul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulGupta403&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
- <!--  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgupta403&show_icons=true&locale=en&layout=compact" alt="rahulgupta403" /></p>  -->
+  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgupta403&show_icons=true&locale=en&layout=compact" alt="rahulgupta403" /></p>  -->
  
  <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgupta403&show_icons=true&locale=en" alt="rahulgupta403" /></p>-->
   
