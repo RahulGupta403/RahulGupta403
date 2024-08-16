@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 
-<h1 align="center"> MNNIT CSE Pre-Final Year</h1>
+<h1 align="center"> MNNIT CSE Final Year</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta403&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta403" /> </p>
 
 
@@ -23,12 +23,12 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/rahulgupta403/**
 
-- 📄 Resume Link : [RahulGupta_Resume](https://drive.google.com/file/d/1aSRSduzdhVUqMFGyZfKTJalthMwguQRO/view?usp=drive_link)
+- 📄 Resume Link : [RahulGupta_Resume](https://drive.google.com/file/d/1v1o9PSQKnM6OVmc-GQOSBLw_7nOwXTLj/view?usp=drive_link)
 
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
-<!-- ![](https://leetcard.jacoblin.cool/rahul_me_gupta?ext=contest&width=500) -->
+<!--![](https://leetcard.jacoblin.cool/rahul_me_gupta?ext=contest&width=500)-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
