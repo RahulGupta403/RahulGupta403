@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 
-<h1 align="center"> MNNIT CSE Final Year</h1>
+<h1 align="center"> Associate Software Engineer @e2open</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgupta403&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgupta403" /> </p>
 
 
